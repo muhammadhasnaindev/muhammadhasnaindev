@@ -1,15 +1,4 @@
-Awesome—here’s a **professional, copy-paste-ready GitHub Profile README** that:
 
-* Highlights **MERN + WordPress/PHP**
-* Shows your **AWS certification badge** (Credly image)
-* States **2+ years experience**
-* Features your three flagship apps with **live links + screenshot previews**
-* Uses your **new contact email**: `hasnainsumra00@gmail.com`
-* Adds **LinkedIn** and **GitHub stats**
-
-> Note: GitHub READMEs don’t allow `<script>` tags, so I used the Credly **badge image** (works perfectly).
-
----
 
 ````markdown
 <h1 align="center">👋 Hi, I'm Muhammad Hasnain</h1>
