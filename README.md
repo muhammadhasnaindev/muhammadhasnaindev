@@ -15,7 +15,7 @@
 - ☁️ AWS Certified | Deploying Full Stack Apps on **EC2, PM2, NGINX, MongoDB**
 - 🧩 I develop **E-Commerce, Real-time Chat Apps, Dashboards & SAAS Products**
 - 💬 Ask me about **MERN, PHP, WordPress & Cloud Deployment**
-- 📫 Contact: **hasnainwebdev@gmail.com**
+- 📫 Contact: **hasnainsumra00@gmail.com**
 - 🔗 LinkedIn: **https://www.linkedin.com/in/muhammadhasnaindev**
 
 ---
@@ -62,5 +62,5 @@
 ### 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammadhasnaindev"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin"/></a>
-  <a href="mailto:hasnainwebdev@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:hasnainsumra@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
