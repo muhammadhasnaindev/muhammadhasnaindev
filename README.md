@@ -16,7 +16,6 @@
 ## 🧭 About Me
 - I build **MERN** apps with clean UI, secure APIs & scalable architecture
 - I deploy production apps on **AWS EC2 + PM2 + Nginx + SSL**
-- I also work with **WordPress / PHP / Laravel**
 - **Email:** <a href="mailto:hasnainsumra00@gmail.com">hasnainsumra00@gmail.com</a>
 - **LinkedIn:** https://www.linkedin.com/in/muhammadhasnaindev
 
